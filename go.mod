@@ -1,3 +1,3 @@
-module github.com/jbgoldman1104/nxqconfig
+module github.com/nexqloud/nxqconfig
 
 go 1.21.1
