@@ -1,6 +1,6 @@
 {
   "MaintenanceWallet": "nxq1edgqqqgajcvs0wxhqda9wzaa5x2l902fu5yxaw",
-  "ContractAddress": "0xf9597159591e353f6A391089974321d8ea004098",
-  "MinValidatorToken": 50,
+  "ContractAddress": "0x93A8a61E4b6b769005aD02221C0CBdfAF5432CF2",
+  "MinValidatorToken": 1,
   "MinValidatorNFTBalance": 5
 }
