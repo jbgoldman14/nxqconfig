@@ -9,7 +9,7 @@ const (
 	Vault4Wallet	       = "nxq1t4p2upwxqdhxlk96qdvqyk8z0fu024n4z4v6dl"
 	Vault5Wallet	       = "nxq17lrmazk8ek7fx8etcgl06kc0sppfv4yvnvspm0"
 	GasCollector		   = "nxq1usgzaq4gmgm3wwmlhw7lhwfkcpqr59zp5xmmd4"
-	ContractAddress        = "0x93A8a61E4b6b769005aD02221C0CBdfAF5432CF2"
+	ContractAddress        = "0xE9ca1aD76E72b33088C1284C4398F950f69899b8"
 	MinValidatorToken      = 1
 	MinValidatorNFTBalance = 5
 )
